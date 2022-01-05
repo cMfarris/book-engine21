@@ -7,10 +7,6 @@ type Book {
     _id: ID!
     bookId: String
     authors: [String]
-<<<<<<< HEAD
-=======
-    # authors: String
->>>>>>> 6615680ecc789b5016f7e606fe6bf5a409499dc4
     description: String
     title: String
     image: String
